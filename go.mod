@@ -3,7 +3,7 @@ module github.com/firecow/caddy-elastic-encoder
 go 1.17
 
 require (
-	github.com/caddyserver/caddy/v2 v2.5.0
+	github.com/caddyserver/caddy/v2 v2.5.1
 	go.uber.org/zap v1.21.0
 )
 
